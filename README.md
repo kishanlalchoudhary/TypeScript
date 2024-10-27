@@ -1,4 +1,4 @@
-﻿# Typescript
+﻿# TypeScript
 
 This is a collection of the TypeScript code I've written while watching FreeCodeCamp - Scrimba Learn TypeScript course.
 
